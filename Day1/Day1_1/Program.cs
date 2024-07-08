@@ -11,6 +11,7 @@ namespace Day1_1
             class1 Class1=new class1();
             Class1.Display();
             class1.DisplayStaic();
+            Console.ReadLine();
         }
 
 
