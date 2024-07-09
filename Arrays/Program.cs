@@ -19,7 +19,8 @@ namespace Arrays
                 fullName.Add("shreyas");
                 fullName.Add("Ramdas");
                 fullName.Add("Damase");
-                foreach(string name in fullName)
+            fullName.Add("Bokya");
+            foreach (string name in fullName)
                         {
                     Console.Write(name+" ");
                         }
